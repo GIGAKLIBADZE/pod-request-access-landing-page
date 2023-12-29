@@ -19,7 +19,7 @@
     <main>
         <!-- Add main text -->
         <h1>Publish your podcasts <span class="white-word">everywhere</span></h1>
-        <p>Upload your audio to Pod with a single click. 
+        <p class="description">Upload your audio to Pod with a single click. 
             We'll then distribute your podcast to Spotify, Apple Podcasts, Google Podcasts, Pocket Casts and more!
         </p>
         <!-- Add some company logos -->
@@ -31,16 +31,17 @@
         </section>
         <div class="interactive-elements">
             <!-- Create a writing space the user will write his/her email inside -->
-            <div class="area">
-                <small>Email address</small>
-            </div>
+                <input class="email-input" placeholder="Email address" required />
             <!-- Create a button the user will enter it for the request -->
             <button>Request Access</button>
         </div>
+        <!-- Add error message -->
+        <p class="error"></p>
     </main>
     <!-- Add footer elements -->
     <footer>
         <img class="ornaments" src="./assets/images/desktop/bg-pattern-dots.svg" alt="ornaments">
     </footer>
+    <script src="./script.js"></script>  
 </body>
 </html>
