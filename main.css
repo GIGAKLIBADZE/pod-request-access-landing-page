@@ -21,24 +21,6 @@
 html {
     font-size: 62.5% !important; /* Set default font size */
 }
-/* 
-
-body {
-    width: 100%;
-    min-height: 100vh;
-    font-family: 'Chivo', sans-serif !important;
-    overflow-x: hidden;
-    background-image: url(./assets/images/mobile/image-host.jpg); 
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: var(--background);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 6.2rem !important;
-    padding-bottom: 9.4rem !important;
-    position: relative;
-}  */
 
 body {
     width: 100%;
