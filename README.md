@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenhot
 
-![](./images/forgit.png.jpg)
+![](/screenshot.jpg)
 
 ### Links
 
