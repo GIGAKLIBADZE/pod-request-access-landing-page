@@ -17,10 +17,6 @@ Users should be able to:
   - The `Email address` field is empty should show "Oops! Please add your email"
   - The email is not formatted correctly should show "Oops! Please check your email"
 
-### Screenhot
-
-![](/screenshot.jpg)
-
 ### Links
 
 - Solution URL: [https://github.com/GIGAKLIBADZE/pod-request-access-landing-page]
